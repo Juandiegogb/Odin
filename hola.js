@@ -1,1 +1,1 @@
-functio[]
+console.log("hola como estas")
